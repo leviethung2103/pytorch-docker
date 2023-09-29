@@ -1,4 +1,4 @@
-FROM nvidia/cuda:11.7.0-cudnn8-devel-ubuntu18.04
+FROM nvidia/cuda:11.7.1-cudnn8-devel-ubuntu18.04
 LABEL maintainer="Edgar Y. Walker <edgar.walker@gmail.com>"
 
 # Deal with pesky Python 3 encoding issue
